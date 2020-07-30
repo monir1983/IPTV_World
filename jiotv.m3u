@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="JioTV"
-#EXTINF:-1 tvg-id="1132" tvg-logo="http://jiotv.catchup.cdn.jio.com/ dare_images/images/Star_PlusHD.png" group-title="JioTV",Star Plus HD
+#EXTINF:-1 tvg-id="1132" tvg-logo="http://jiotv.catchup.cdn.jio.com/ dare_images/images/Star_PlusHD.png" group-title="Entertainment",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="1116" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png" group-title="JioTV",Star Plus
+#EXTINF:-1 tvg-id="1116" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png" group-title="Entertainment",Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 tvg-id="931" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="JioTV",Star Bharat HD
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
