@@ -1,244 +1,242 @@
 #EXTM3U
-#EXTINF:-1 group-title="JioTV+  (TiviMate)",
+#EXTINF:-1 group-title="JioTV",
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_PlusHD.mpd
-#EXTINF:-1 tvg-id="1132" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="JioTV+  (TiviMate)",Star Plus HD
+#EXTINF:-1 tvg-id="1132" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="JioTV",Star Plus HD
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_PlusHD_BTS/output/index.mpd|user-agent="KAIOS"
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Plus.mpd
-#EXTINF:-1 tvg-id="1116" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png" group-title="JioTV+  (TiviMate)",Star Plus
-https://jiotv.live.cdn.jio.com/bpk-tv/Star_Plus_BTS/output/index.mpd|user-agent="KAIOS"
+#EXTINF:-1 tvg-id="1116" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png" group-title="JioTV",Star Plus
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Bharat_HD.mpd
-#EXTINF:-1 tvg-id="931" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="JioTV+  (TiviMate)",Star Bharat HD
+#EXTINF:-1 tvg-id="931" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="JioTV",Star Bharat HD
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Bharat.mpd
-#EXTINF:-1 tvg-id="1127" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png" group-title="JioTV+  (TiviMate)",Star Bharat
+#EXTINF:-1 tvg-id="1127" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png" group-title="JioTV",Star Bharat
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Bharat_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Colors_HD.mpd
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="JioTV+  (TiviMate)",Colors HD
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="JioTV",Colors HD
 https://sdlhivkcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Rishtey.mpd
-#EXTINF:-1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="JioTV+  (TiviMate)",Rishtey
+#EXTINF:-1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="JioTV",Rishtey
 https://sdlhivkcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Rishtey_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_GoldHD.mpd
-#EXTINF:-1 tvg-id="1133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="JioTV+  (TiviMate)",Star GoldHD
+#EXTINF:-1 tvg-id="1133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="JioTV",Star GoldHD
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_GoldHD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Gold.mpd
-#EXTINF:-1 tvg-id="1125" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="JioTV+  (TiviMate)",Star Gold
+#EXTINF:-1 tvg-id="1125" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="JioTV",Star Gold
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Gold_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Gold_Select_HD.mpd
-#EXTINF:-1 tvg-id="1113" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="JioTV+  (TiviMate)",Star Gold Select HD
+#EXTINF:-1 tvg-id="1113" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="JioTV",Star Gold Select HD
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Gold_Select.mpd
-#EXTINF:-1 tvg-id="1119" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="JioTV+  (TiviMate)",Star Gold Select
+#EXTINF:-1 tvg-id="1119" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="JioTV",Star Gold Select
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Jio_Bollywood_Premium_HD.mpd
-#EXTINF:-1 tvg-id="1202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png" group-title="JioTV+  (TiviMate)",Jio Bollywood Premium HD
+#EXTINF:-1 tvg-id="1202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png" group-title="JioTV",Jio Bollywood Premium HD
 https://jiotv.live.cdn.jio.com/bpk-tv/EROSNOW_Hindi_Premium_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Movies_OK_SD.mpd
-#EXTINF:-1 tvg-id="1154" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK_SD.png" group-title="JioTV+  (TiviMate)",Movies OK
+#EXTINF:-1 tvg-id="1154" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK_SD.png" group-title="JioTV",Movies OK
 https://jiotv.live.cdn.jio.com/bpk-tv/Movies_OK_SD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/MTV_HD_Plus.mpd
-#EXTINF:-1 tvg-id="1145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JioTV+  (TiviMate)",MTV HD Plus
+#EXTINF:-1 tvg-id="1145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JioTV",MTV HD Plus
 https://jiotv.live.cdn.jio.com/bpk-tv/MTV_HD_Plus_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/MTV_Beats_HD.mpd
-#EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JioTV+  (TiviMate)",MTV Beats HD
+#EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JioTV",MTV Beats HD
 https://jiotv.live.cdn.jio.com/bpk-tv/MTV_Beats_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Nick_Junior.mpd
-#EXTINF:-1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="JioTV+  (TiviMate)",Nick Junior
+#EXTINF:-1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="JioTV",Nick Junior
 https://jiotv.live.cdn.jio.com/bpk-tv/Nick_Junior_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Nick_HD_Plus.mpd
-#EXTINF:-1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="JioTV+  (TiviMate)",Nick HD+
+#EXTINF:-1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="JioTV",Nick HD+
 https://jiotv.live.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Sports_HD1.mpd
-#EXTINF:-1 tvg-id="1106" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="JioTV+  (TiviMate)",Star Sports HD1
+#EXTINF:-1 tvg-id="1106" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="JioTV",Star Sports HD1
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Sports_HD2.mpd
-#EXTINF:-1 tvg-id="1109" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" group-title="JioTV+  (TiviMate)",Star Sports HD2
+#EXTINF:-1 tvg-id="1109" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" group-title="JioTV",Star Sports HD2
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Sports_HD1_Hindi.mpd
-#EXTINF:-1 tvg-id="1108" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="JioTV+  (TiviMate)",Star Sports HD1 Hindi
+#EXTINF:-1 tvg-id="1108" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="JioTV",Star Sports HD1 Hindi
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Sports_Select_HD_1.mpd
-#EXTINF:-1 tvg-id="460" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="JioTV+  (TiviMate)",Star Sports Select HD1
+#EXTINF:-1 tvg-id="460" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="JioTV",Star Sports Select HD1
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Sports_Select_HD_2.mpd
-#EXTINF:-1 tvg-id="461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="JioTV+  (TiviMate)",Star Sports Select HD2
+#EXTINF:-1 tvg-id="461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="JioTV",Star Sports Select HD2
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_World_HD.mpd
-#EXTINF:-1 tvg-id="1105" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_HD.png" group-title="JioTV+  (TiviMate)",Star World HD
+#EXTINF:-1 tvg-id="1105" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_HD.png" group-title="JioTV",Star World HD
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_World_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_World.mpd
-#EXTINF:-1 tvg-id="1128" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World.png" group-title="JioTV+  (TiviMate)",Star World
+#EXTINF:-1 tvg-id="1128" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World.png" group-title="JioTV",Star World
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_World_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_World_Premeir_HD.mpd
-#EXTINF:-1 tvg-id="1107" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_Premeir_HD.png" group-title="JioTV+  (TiviMate)",Star World Premeir HD
+#EXTINF:-1 tvg-id="1107" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_Premeir_HD.png" group-title="JioTV",Star World Premeir HD
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_World_Premeir_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Colors_Infinity_HD.mpd
-#EXTINF:-1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="JioTV+  (TiviMate)",Colors Infinity HD
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="JioTV",Colors Infinity HD
 https://jiotv.live.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Comedy_Central_HD.mpd
-#EXTINF:-1 tvg-id="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="JioTV+  (TiviMate)",Comedy Central HD
+#EXTINF:-1 tvg-id="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="JioTV",Comedy Central HD
 https://jiotv.live.cdn.jio.com/bpk-tv/Comedy_Central_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Movies_HD.mpd
-#EXTINF:-1 tvg-id="1104" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="JioTV+  (TiviMate)",Star Movies HD
+#EXTINF:-1 tvg-id="1104" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="JioTV",Star Movies HD
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Movies.mpd
-#EXTINF:-1 tvg-id="1115" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png" group-title="JioTV+  (TiviMate)",Star Movies
+#EXTINF:-1 tvg-id="1115" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png" group-title="JioTV",Star Movies
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Movies_Select_HD.mpd
-#EXTINF:-1 tvg-id="1110" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="JioTV+  (TiviMate)",Star Movies Select HD
+#EXTINF:-1 tvg-id="1110" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="JioTV",Star Movies Select HD
 https://jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Travel_XP_HD.mpd
-#EXTINF:-1 tvg-id="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="JioTV+  (TiviMate)",Travel XP HD
+#EXTINF:-1 tvg-id="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="JioTV",Travel XP HD
 https://jiotv.live.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Maa_HD.mpd
-#EXTINF:-1 tvg-id="1112" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="JioTV+  (TiviMate)",Maa HD
+#EXTINF:-1 tvg-id="1112" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="JioTV",Maa HD
 http://jiotv.live.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Maa_Movies_HD.mpd
-#EXTINF:-1 tvg-id="1111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="JioTV+  (TiviMate)",Maa Movies
+#EXTINF:-1 tvg-id="1111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="JioTV",Maa Movies
 http://jiotv.live.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Jalsha.mpd
-#EXTINF:-1 tvg-id="317" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="JioTV+  (TiviMate)",Star Jalsha HD
+#EXTINF:-1 tvg-id="317" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="JioTV",Star Jalsha HD
 http://jiotv.live.cdn.jio.com/bpk-tv/Star_Jalsha_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Pravah.mpd
-#EXTINF:-1 tvg-id="336" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png" group-title="JioTV+  (TiviMate)",Star Pravah HD
+#EXTINF:-1 tvg-id="336" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png" group-title="JioTV",Star Pravah HD
 http://jiotv.live.cdn.jio.com/bpk-tv/Star_Pravah_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Jalsa_Movies_HD.mpd
-#EXTINF:-1 tvg-id="457" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="JioTV+  (TiviMate)",Jalsha Movies HD
+#EXTINF:-1 tvg-id="457" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="JioTV",Jalsha Movies HD
 http://jiotv.live.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/KTV_HD.mpd
-#EXTINF:-1 tvg-id="894" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="JioTV+  (TiviMate)",KTV HD
+#EXTINF:-1 tvg-id="894" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="JioTV",KTV HD
 http://jiotv.live.cdn.jio.com/bpk-tv/KTV_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Colors_Bengali_HD.mpd
-#EXTINF:-1 tvg-id="756" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="JioTV+  (TiviMate)",Colors Bengali HD
+#EXTINF:-1 tvg-id="756" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="JioTV",Colors Bengali HD
 http://jiotv.live.cdn.jio.com/bpk-tv/Colors_Bengali_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Colors_Kannada_HD.mpd
-#EXTINF:-1 tvg-id="757" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="JioTV+  (TiviMate)",Colors Kannada HD
+#EXTINF:-1 tvg-id="757" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="JioTV",Colors Kannada HD
 http://jiotv.live.cdn.jio.com/bpk-tv/Colors_Kannada_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Colors_Marathi_HD.mpd
-#EXTINF:-1 tvg-id="755" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="JioTV+  (TiviMate)",Colors Marathi HD
+#EXTINF:-1 tvg-id="755" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="JioTV",Colors Marathi HD
 http://jiotv.live.cdn.jio.com/bpk-tv/Colors_Marathi_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Colors_Tamil_HD.mpd
-#EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="JioTV+  (TiviMate)",Colors Tamil HD
+#EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="JioTV",Colors Tamil HD
 http://jiotv.live.cdn.jio.com/bpk-tv/Colors_Tamil_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Asianet.mpd
-#EXTINF:-1 tvg-id="443" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" group-title="JioTV+  (TiviMate)",Asianet HD
+#EXTINF:-1 tvg-id="443" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" group-title="JioTV",Asianet HD
 http://jiotv.live.cdn.jio.com/bpk-tv/Asianet_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Asianet_Movies_SD.mpd
-#EXTINF:-1 tvg-id="1153" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_SD.png" group-title="JioTV+  (TiviMate)",Asianet Movies
+#EXTINF:-1 tvg-id="1153" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_SD.png" group-title="JioTV",Asianet Movies
 http://jiotv.live.cdn.jio.com/bpk-tv/Asianet_Movies_SD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Asianet_Plus_SD.mpd
-#EXTINF:-1 tvg-id="1139" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus_SD.png" group-title="JioTV+  (TiviMate)",Asianet Plus SD
+#EXTINF:-1 tvg-id="1139" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus_SD.png" group-title="JioTV",Asianet Plus SD
 http://jiotv.live.cdn.jio.com/bpk-tv/Asianet_Plus_SD_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Vijay_Super.mpd
-#EXTINF:-1 tvg-id="1131" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super.png" group-title="JioTV+  (TiviMate)",Vijay Super
+#EXTINF:-1 tvg-id="1131" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super.png" group-title="JioTV",Vijay Super
 http://jiotv.live.cdn.jio.com/bpk-tv/Vijay_Super_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Vijay_TV.mpd
-#EXTINF:-1 tvg-id="1130" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_TV.png" group-title="JioTV+  (TiviMate)",Vijay TV
+#EXTINF:-1 tvg-id="1130" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_TV.png" group-title="JioTV",Vijay TV
 http://jiotv.live.cdn.jio.com/bpk-tv/Vijay_TV_BTS/output/index.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarPlus.mpd
-#EXTINF:-1 tvg-id="158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Hotstar (Tivimate)",StarPlus
+#EXTINF:-1 tvg-id="158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Hotstar",StarPlus
 http://hotcup.indtv.online/hotstar/StarPlus.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarBharat.mpd
-#EXTINF:-1 tvg-id="931" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Hotstar (Tivimate)",Star Bharat
+#EXTINF:-1 tvg-id="931" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Hotstar",Star Bharat
 http://hotcup.indtv.online/hotstar/StarBharat.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarUtsav.mpd
-#EXTINF:-1 tvg-id="367" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="Hotstar (Tivimate)",Star Utsav
+#EXTINF:-1 tvg-id="367" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="Hotstar",Star Utsav
 http://hotcup.indtv.online/hotstar/StarUtsav.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarSports1.mpd
-#EXTINF:-1 tvg-id="1106" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="Hotstar (Tivimate)",Star Sports 1
+#EXTINF:-1 tvg-id="1106" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="Hotstar",Star Sports 1
 http://hotcup.indtv.online/hotstar/StarSports1.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarSports2.mpd
-#EXTINF:-1 tvg-id="1109" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" group-title="Hotstar (Tivimate)",Star Sports 2
+#EXTINF:-1 tvg-id="1109" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" group-title="Hotstar",Star Sports 2
 http://hotcup.indtv.online/hotstar/StarSports2.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarSportsHindi1.mpd
-#EXTINF:-1 tvg-id="1108" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="Hotstar (Tivimate)",Star Sports Hindi 1
+#EXTINF:-1 tvg-id="1108" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="Hotstar",Star Sports Hindi 1
 http://hotcup.indtv.online/hotstar/StarSportsHindi1.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarSportsSelect1.mpd
-#EXTINF:-1 tvg-id="460" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="Hotstar (Tivimate)",Star Sports Select 1
+#EXTINF:-1 tvg-id="460" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="Hotstar",Star Sports Select 1
 http://hotcup.indtv.online/hotstar/StarSportsSelect1.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarSportsSelect2.mpd
-#EXTINF:-1 tvg-id="461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Hotstar (Tivimate)",Star Sports Select 2
+#EXTINF:-1 tvg-id="461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Hotstar",Star Sports Select 2
 http://hotcup.indtv.online/hotstar/StarSportsSelect2.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarJalsha.mpd
-#EXTINF:-1 tvg-id="317" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Hotstar (Tivimate)",Star Jalsha
+#EXTINF:-1 tvg-id="317" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Hotstar",Star Jalsha
 http://hotcup.indtv.online/hotstar/StarJalsha.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarVijay.mpd
-#EXTINF:-1 tvg-id="368" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" group-title="Hotstar (Tivimate)",Star Vijay
+#EXTINF:-1 tvg-id="368" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" group-title="Hotstar",Star Vijay
 http://hotcup.indtv.online/hotstar/StarVijay.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/Asianet.mpd
-#EXTINF:-1 tvg-id="443" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" group-title="Hotstar (Tivimate)",Asianet
+#EXTINF:-1 tvg-id="443" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" group-title="Hotstar",Asianet
 http://hotcup.indtv.online/hotstar/Asianet.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/AsianetPlus.mpd
-#EXTINF:-1 tvg-id="1139" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus_SD.png" group-title="Hotstar (Tivimate)",Asianet Plus
+#EXTINF:-1 tvg-id="1139" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus_SD.png" group-title="Hotstar",Asianet Plus
 http://hotcup.indtv.online/hotstar/AsianetPlus.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarMaa.mpd
-#EXTINF:-1 tvg-id="1112" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Hotstar (Tivimate)",Star Maa
+#EXTINF:-1 tvg-id="1112" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Hotstar",Star Maa
 http://hotcup.indtv.online/hotstar/StarMaa.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarPravah.mpd
-#EXTINF:-1 tvg-id="336" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png" group-title="Hotstar (Tivimate)",Star Pravah
+#EXTINF:-1 tvg-id="336" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png" group-title="Hotstar",Star Pravah
 http://hotcup.indtv.online/hotstar/StarPravah.mpd|user-agent="KAIOS"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hotcup.indtv.online/hotstar/StarSuvarna.mpd
-#EXTINF:-1 tvg-id="370" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png" group-title="Hotstar (Tivimate)",Star Suvarna
+#EXTINF:-1 tvg-id="370" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png" group-title="Hotstar",Star Suvarna
 http://hotcup.indtv.online/hotstar/StarSuvarna.mpd|user-agent="KAIOS"
 #EXTINF:-1 tvg-id="Sun TV HD" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SunNXT",Sun TV HD
 http://sunnxt.indtv.online/SunNXT/SunTVHD/SunTVHD.m3u8
