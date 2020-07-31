@@ -23,6 +23,7 @@ http://indtv.online/sonyliv/SonyMaxhd.m3u8
 http://indtv.online/zee5/0-9-zeecinemalu.m3u8
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="Movies",Gemini Movies HD
 http://sunnxt.indtv.online/SunNXT/GeminiMoviesHD/GeminiMoviesHD.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Maa_Movies_HD.mpd
 #EXTINF:-1 tvg-id="1111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Movies",Maa Movies
 http://jiotv.live.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd|user-agent="KAIOS"
