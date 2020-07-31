@@ -47,19 +47,19 @@ http://indtv.online/zee5/0-9-zeeclassic.m3u8
 http://indtv.online/jiotv/Bhakti_TV.m3u8
 #EXTINF:-1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="Devotional",Sri Venkateshwar Bhakti
 http://indtv.online/jiotv/Sri_Venkateshwar_Bhakti.m3u8
-#EXTINF:-1 tvg-id="646" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="Telugu",NTV
+#EXTINF:-1 tvg-id="646" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="News",NTV
 http://indtv.online/jiotv/NTV.m3u8
-#EXTINF:-1 tvg-id="618" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="Telugu",TV9 Telugu
+#EXTINF:-1 tvg-id="618" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="News",TV9 Telugu
 http://indtv.online/jiotv/TV9_Telugu_News.m3u8
-#EXTINF:-1 tvg-id="769" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="Telugu",V6 News
+#EXTINF:-1 tvg-id="769" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="News",V6 News
 http://indtv.online/jiotv/V6_News.m3u8
-#EXTINF:-1 tvg-id="832" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="Telugu",10 TV
+#EXTINF:-1 tvg-id="832" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="News",10 TV
 http://indtv.online/jiotv/10_TV.m3u8
-#EXTINF:-1 tvg-id="666" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="Telugu",ABN Andhra Jyothi
+#EXTINF:-1 tvg-id="666" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 http://indtv.online/jiotv/ABN_Andhra_Jyothi.m3u8
-#EXTINF:-1 tvg-id="0-9-222" tvg-logo="https://akamaividz.zee5.com/resources/0-9-222/list/386x386/09222tv5news.png" group-title="Zee5",TV5 News
+#EXTINF:-1 tvg-id="0-9-222" tvg-logo="https://akamaividz.zee5.com/resources/0-9-222/list/386x386/09222tv5news.png" group-title="News",TV5 News
 http://indtv.online/zee5/0-9-222.m3u8
-#EXTINF:-1 tvg-id="630" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="Telugu",ETV Telangana
+#EXTINF:-1 tvg-id="630" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="News",ETV Telangana
 http://indtv.online/jiotv/ETV_Telangana.m3u8
 #EXTINF:-1 tvg-id="ABPNews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7014.ABPNews.in/1x1/1x/test_pic1580713373952.jpg" group-title="News",ABP News
 http://indtv.online/tp/ABPNews.m3u8
@@ -69,7 +69,7 @@ http://indtv.online/tp/IndiaTV.m3u8
 http://indtv.online/jiotv/Aaj_Tak.m3u8
 #EXTINF:-1 tvg-id="231" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 India
 http://indtv.online/jiotv/IBN_7.m3u8
-#EXTINF:-1 tvg-id="0-9-zeenews" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title="Zee5",Zee News
+#EXTINF:-1 tvg-id="0-9-zeenews" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title="News",Zee News
 http://indtv.online/zee5/0-9-zeenews.m3u8
 #EXTINF:-1 tvg-id="1106" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="Sports",Star Sports HD1
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/661
