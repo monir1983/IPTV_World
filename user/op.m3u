@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetelugu/list/386x386/09zeeteluguzeetelugu.png" group-title="Telugu",Zee Telugu
+#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetelugu/list/386x386/09zeeteluguzeetelugu.png" group-title="Entertainment",Zee Telugu
 http://indtv.online/zee5/0-9-zeetelugu.m3u8
-#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Telugu",Gemini TV HD
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://sunnxt.indtv.online/SunNXT/GeminiTVHD/GeminiTVHD.m3u8
-#EXTINF:-1 tvg-id="758" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Telugu",Maa TV HD
+#EXTINF:-1 tvg-id="758" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertainment",Maa TV HD
 http://sdlhivkcdnems01.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/maatv/master_800.m3u8|user-agent="Hotstar"
-#EXTINF:-1 tvg-id="629" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Telugu",ETV Telugu
+#EXTINF:-1 tvg-id="629" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertainment",ETV Telugu
 http://indtv.online/jiotv/ETV_Telugu.m3u8
 #EXTINF:-1 tvg-id="1132" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Entertainment",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="291" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="SonyLIV",SET HD
+#EXTINF:-1 tvg-id="291" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Entertainment",SET HD
 http://indtv.online/sonyliv/SETHD.m3u8
-#EXTINF:-1 tvg-id="474" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="SonyLIV",Sony Pal SD
+#EXTINF:-1 tvg-id="474" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="Entertainment",Sony Pal SD
 http://indtv.online/sonyliv/SonyPalSD.m3u8
-#EXTINF:-1 tvg-id="476" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="SonyLIV",Sony Max HD
+#EXTINF:-1 tvg-id="476" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="Movies",Sony Max HD
 http://indtv.online/sonyliv/SonyMaxhd.m3u8
-#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemalu/list/386x386/09zeecinemaluzeecinemalu.png" group-title="Telugu",Zee Cinemalu
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemalu/list/386x386/09zeecinemaluzeecinemalu.png" group-title="Movies",Zee Cinemalu
 http://indtv.online/zee5/0-9-zeecinemalu.m3u8
-#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="Telugu",Gemini Movies HD
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="Movies",Gemini Movies HD
 http://sunnxt.indtv.online/SunNXT/GeminiMoviesHD/GeminiMoviesHD.m3u8
-#EXTINF:-1 tvg-id="1111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Telugu",Maa Movies
+#EXTINF:-1 tvg-id="1111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Movies",Maa Movies
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/960
-#EXTINF:-1 tvg-id="252" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Telugu",ETV Cinema
+#EXTINF:-1 tvg-id="252" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies",ETV Cinema
 http://indtv.online/jiotv/ETV_Cinema.m3u8
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Zee5",Zee Cinema HD
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Movies",Zee Cinema HD
 http://indtv.online/zee5/0-9-zeecinemahd.m3u8
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png" group-title="Zee5",&Pictures HD
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png" group-title="Movies",&Pictures HD
 http://indtv.online/zee5/0-9-tvpictureshd.m3u8
 #EXTINF:-1 tvg-id="1133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="Movies",Star Gold HD
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
@@ -37,29 +37,29 @@ https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/823
 #EXTINF:-1 tvg-id="1119" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="Movies",Star Gold Select
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/823
-#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz.zee5.com/resources/0-9-176/list/386x386/09176zeeclassic.png" group-title="Zee5",Zee Classic
+#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz.zee5.com/resources/0-9-176/list/386x386/09176zeeclassic.png" group-title="Movies",Zee Classic
 http://indtv.online/zee5/0-9-176.m3u8
-#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Zee5",Zee Action
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Movies",Zee Action
 http://indtv.online/zee5/0-9-zeeaction.m3u8
-#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="Zee5",Zee Bollywood
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="Movies",Zee Bollywood
 http://indtv.online/zee5/0-9-zeeclassic.m3u8
-#EXTINF:-1 tvg-id="776" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Telugu",Bhakti TV
+#EXTINF:-1 tvg-id="776" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Devotional",Bhakti TV
 http://indtv.online/jiotv/Bhakti_TV.m3u8
-#EXTINF:-1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="Telugu",Sri Venkateshwar Bhakti
+#EXTINF:-1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="Devotional",Sri Venkateshwar Bhakti
 http://indtv.online/jiotv/Sri_Venkateshwar_Bhakti.m3u8
-#EXTINF:-1 tvg-id="618" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="Telugu",TV9 Telugu
+#EXTINF:-1 tvg-id="618" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="News",TV9 Telugu
 https://www.youtube.com/watch?v=Q6QR4979KIQ
-#EXTINF:-1 tvg-id="646" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="Telugu",NTV
+#EXTINF:-1 tvg-id="646" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="News",NTV
 https://www.youtube.com/watch?v=HUiHKse-YgM
-#EXTINF:-1 tvg-id="769" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="Telugu",V6 News
+#EXTINF:-1 tvg-id="769" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="News",V6 News
 https://www.youtube.com/watch?v=bl9VaUaI0r0
-#EXTINF:-1 tvg-id="832" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="Telugu",10 TV
+#EXTINF:-1 tvg-id="832" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="News",10 TV
 https://www.youtube.com/watch?v=yA1P_udg-uU
-#EXTINF:-1 tvg-id="666" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="Telugu",ABN Andhra Jyothi
+#EXTINF:-1 tvg-id="666" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 https://www.youtube.com/watch?v=E_JY-Z3_nX0
-#EXTINF:-1 tvg-id="0-9-222" tvg-logo="https://akamaividz.zee5.com/resources/0-9-222/list/386x386/09222tv5news.png" group-title="Zee5",TV5 News
+#EXTINF:-1 tvg-id="0-9-222" tvg-logo="https://akamaividz.zee5.com/resources/0-9-222/list/386x386/09222tv5news.png" group-title="News",TV5 News
 https://www.youtube.com/watch?v=NezGUhHsl_8
-#EXTINF:-1 tvg-id="630" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="Telugu",ETV Telangana
+#EXTINF:-1 tvg-id="630" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="News",ETV Telangana
 https://www.youtube.com/watch?v=lIppb4BYUdo
 #EXTINF:-1 tvg-id="ABPNews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7014.ABPNews.in/1x1/1x/test_pic1580713373952.jpg" group-title="News",ABP News
 https://www.youtube.com/watch?v=ufeGM9_Jn7M
@@ -69,7 +69,7 @@ https://www.youtube.com/watch?v=F6riDx4XxHI
 https://www.youtube.com/watch?v=emCd4fr93rs
 #EXTINF:-1 tvg-id="231" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 India
 https://www.youtube.com/watch?v=DupLX2bHFKw
-#EXTINF:-1 tvg-id="0-9-zeenews" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title="Zee5",Zee News
+#EXTINF:-1 tvg-id="0-9-zeenews" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title="News",Zee News
 http://indtv.online/zee5/0-9-zeenews.m3u8
 #EXTINF:-1 tvg-id="1106" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="Sports",Star Sports HD1
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/661
@@ -79,11 +79,11 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/200
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
 #EXTINF:-1 tvg-id="461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Sports",Star Sports Select HD2
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
-#EXTINF:-1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SonyLIV",SONY TEN1 HD
+#EXTINF:-1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="Sports",SONY TEN1 HD
 http://indtv.online/sonyliv/SONYTEN1HD.m3u8
-#EXTINF:-1 tvg-id="891" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SonyLIV",SONY TEN 2 HD
+#EXTINF:-1 tvg-id="891" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="Sports",SONY TEN 2 HD
 http://indtv.online/sonyliv/SONYTEN2HD.m3u8
-#EXTINF:-1 tvg-id="892" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SonyLIV",SONY TEN 3 HD
+#EXTINF:-1 tvg-id="892" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="Sports",SONY TEN 3 HD
 http://indtv.online/sonyliv/SONYTEN3HD.m3u8
-#EXTINF:-1 tvg-id="525" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SonyLIV",Sony Six SD
+#EXTINF:-1 tvg-id="525" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="Sports",Sony Six SD
 http://indtv.online/sonyliv/SonySixSD.m3u8
