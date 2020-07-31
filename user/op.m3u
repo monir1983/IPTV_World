@@ -3,12 +3,16 @@
 http://indtv.online/zee5/0-9-zeetelugu.m3u8
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://sunnxt.indtv.online/SunNXT/GeminiTVHD/GeminiTVHD.m3u8
-#EXTINF:-1 tvg-id="758" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertainment",Maa TV HD
-http://sdlhivkcdnems01.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/maatv/master_800.m3u8|user-agent="Hotstar"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Maa_HD.mpd
+#EXTINF:-1 tvg-id="1112" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Entertainment",Maa HD
+http://jiotv.live.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #EXTINF:-1 tvg-id="629" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertainment",ETV Telugu
 http://indtv.online/jiotv/ETV_Telugu.m3u8
-#EXTINF:-1 tvg-id="1132" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Entertainment",Star Plus HD
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_PlusHD.mpd
+#EXTINF:-1 tvg-id="1132" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="Entertainment",Star Plus HD
+https://jiotv.live.cdn.jio.com/bpk-tv/Star_PlusHD_BTS/output/index.mpd|user-agent="KAIOS"
 #EXTINF:-1 tvg-id="291" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Entertainment",SET HD
 http://indtv.online/sonyliv/SETHD.m3u8
 #EXTINF:-1 tvg-id="474" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="Entertainment",Sony Pal SD
@@ -19,8 +23,9 @@ http://indtv.online/sonyliv/SonyMaxhd.m3u8
 http://indtv.online/zee5/0-9-zeecinemalu.m3u8
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="Movies",Gemini Movies HD
 http://sunnxt.indtv.online/SunNXT/GeminiMoviesHD/GeminiMoviesHD.m3u8
+#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Maa_Movies_HD.mpd
 #EXTINF:-1 tvg-id="1111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Movies",Maa Movies
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/960
+http://jiotv.live.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd|user-agent="KAIOS"
 #EXTINF:-1 tvg-id="252" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies",ETV Cinema
 http://indtv.online/jiotv/ETV_Cinema.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Movies",Zee Cinema HD
