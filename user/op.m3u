@@ -19,12 +19,12 @@ http://sunnxt.indtv.online/SunNXT/GeminiMoviesHD/GeminiMoviesHD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Maa_Movies_HD.mpd
 #EXTINF:-1 tvg-id="1111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Movies",Maa Movies
 http://jiotv.live.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd|user-agent="KAIOS"
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Maa_Movies_HD.mpd
-#EXTINF:-1 tvg-id="1111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Movies",Maa Movies
-http://jiotv.live.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd|user-agent="KAIOS"
+#EXTINF:-1 tvg-id="759" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="Movies",Maa Gold HD
+http://sdlhivkcdnems01.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/maagold/master_800.m3u8|user-agent="Hotstar"
 #EXTINF:-1 tvg-id="252" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies",ETV Cinema
 http://indtv.online/jiotv/ETV_Cinema.m3u8
+#EXTINF:-1 tvg-id="776" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Devotional",Bhakti TV
+http://indtv.online/jiotv/Bhakti_TV.m3u8
 #EXTINF:-1 tvg-id="291" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Entertainment",SET HD
 http://indtv.online/sonyliv/SETHD.m3u8
 #EXTINF:-1 tvg-id="476" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="Movies",Sony Max HD
@@ -54,8 +54,6 @@ http://indtv.online/jiotv/Aaj_Tak.m3u8
 #EXTINF:-1 tvg-id="231" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 India
 http://indtv.online/jiotv/IBN_7.m3u8
 #EXTINF:-1 tvg-id="0-9-zeenews" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title="News",Zee News
-#EXTINF:-1 tvg-id="776" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Devotional",Bhakti TV
-http://indtv.online/jiotv/Bhakti_TV.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/mpd/Star_Movies_HD.mpd
 #EXTINF:-1 tvg-id="1104" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="Movies",Star Movies HD
