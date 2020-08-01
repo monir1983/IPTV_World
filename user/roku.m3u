@@ -7,7 +7,7 @@ http://sunnxt.indtv.online/SunNXT/GeminiTVHD/GeminiTVHD.m3u8
 http://sdlhivkcdnems01.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/maatv/master_800.m3u8|user-agent="Hotstar"
 #EXTINF:-1 tvg-id="629" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertainment",ETV Telugu
 http://indtv.online/jiotv/ETV_Telugu.m3u8
-#EXTINF:-1 tvg-id="1132" tvg-logo="http://jiotv.catchup.cdn.jio.com/ dare_images/images/Star_PlusHD.png" group-title="Entertainment",Star Plus HD
+#EXTINF:-1 tvg-id="1132" tvg-logo="http://sgdccdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="Entertainment",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="1116" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png" group-title="Entertainment",Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
