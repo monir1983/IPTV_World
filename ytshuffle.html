@@ -9,7 +9,7 @@
       firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
       var player;
-      var Randomnum = Math.floor(Math.random() * 1000) + 1; // Randomly selects the first video to play within range 1 ~ 1000.
+      var Randomnum = Math.floor(Math.random() * 700) + 1; // Randomly selects the first video to play within range 1 ~ 700.
  
       function onYouTubeIframeAPIReady() {
           player = new YT.Player('player',
@@ -19,7 +19,7 @@
                 playerVars: 
                     {
                         listType:'playlist',
-                        list: 'PLzufeTFnhupxVg-1DHmZAsaWLZ_kKPNRh',
+                        list: 'PLp7VUMtAYjrTnlP59a64-4RjN3zw78uSd',
                         index : Randomnum
                     },
                 events: { 'onReady': onPlayerReady, 'onError': PassVideo }
